@@ -1,9 +1,16 @@
 ### cordova_todos
 
-codova + react
+This project impelements hybrid app via codova + react
 
 ### How to install
 > npm install
 
 
-this command will install packages those we set in package.json
+This command will install packages those we set in package.json
+
+### Explanation of gulpfile.js
+
+* [Document](https://github.com/gulpjs/gulp/blob/master/docs/README.md) - Getting start with gulp
+
+
+
