@@ -6,6 +6,7 @@ This project impelements hybrid app via codova + react
 > npm install
 
 
+Before we install, please update your npm  to latest version,
 This command will install packages those we set in package.json
 
 ### Explanation of gulpfile.js
