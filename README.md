@@ -10,7 +10,7 @@ This command will install packages those we set in package.json
 
 ### Explanation of gulpfile.js
 
-* [Document](https://github.com/gulpjs/gulp/blob/master/docs/README.md) - Getting start with gulp
+* [Documents](https://github.com/gulpjs/gulp/blob/master/docs/README.md) - Getting start with gulp
 
 
 
