@@ -14,4 +14,8 @@ This command will install packages those we set in package.json
 * [Documents](https://github.com/gulpjs/gulp/blob/master/docs/README.md) - Getting start with gulp
 
 
+### About React.js
+
+* [This site](http://facebook.github.io/react/) - React js offical site
+
 
