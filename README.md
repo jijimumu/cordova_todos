@@ -1,8 +1,13 @@
 ### cordova_todos
 
-This project impelements hybrid app via codova + react
+This project impelements hybrid app via cordova + react
 
-### How to install
+### Feature
+* React and jsx
+* react-router
+* gulp.js
+
+### Local install
 > npm install
 
 
